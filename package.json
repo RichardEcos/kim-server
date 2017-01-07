@@ -1,0 +1,19 @@
+{
+  "name": "kim-server",
+  "version": "1.0.0",
+  "description": "provides REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardEcos/kim-server.git"
+  },
+  "author": "Richard Ecos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RichardEcos/kim-server/issues"
+  },
+  "homepage": "https://github.com/RichardEcos/kim-server#readme"
+}
